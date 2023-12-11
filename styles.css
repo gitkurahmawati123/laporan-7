@@ -34,4 +34,21 @@ p{
     margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
 
+=======
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+#footer {
+    background-color: #1992b4;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+}
+>>>>>>> html
